@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/luigi.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Luigi</title>
+</head>
+
+<body>
+
+
+    <header>
+        <h1>LUIGI-CORP</h1>
+        <a href="#" class="link-header">Backlog</a>
+        <a href="#" class="link-header">Projetos</a>
+        <a href="#" class="link-header">Logs do Sistema</a>
+
+        <input type="text" placeholder="🔍 Pesquisar..." class="input-pesquisa" />
+
+
+
+        <div class="icones-header1">
+            <div class="container-icone"><img src="img/console (1).png" alt="icone de console" class="icone-header" /></div>
+            <div class="container-icone"><img src="img/user (1).png" alt="icone de usuario" class="icone-header" /></div>
+        </div>
+
+
+
+        <button class="button-header">Entrar no Clube</button>
+    </header>
+
+    <main>
+        <section class="section-da-esquerda">
+            <span class="link-main"> <img width="20" height="20"
+                    src="https://img.icons8.com/ios-glyphs/30/228BE6/star--v1.png" alt="star--v1" />EXPLORE O
+                CÓDIGO-FONTE</span>
+            <h1 class="h1-main"> <span class="span-h1">O Dev em</span> Destaque </h1>
+            <p class="p-main">O melhor código nem sempre vem de quem digita mais rápido. Descubra a jornada do
+                engenheiro de software mais carismático do Mushroom Kingdom.</p>
+
+            <div class="container-button">
+                <button class="button-main1" onclick="mostrarForm()">Iniciar Deploy</button>
+                <button class="button-main2">Ver Repositório</button>
+            </div>
+
+            <span class="linha"></span>
+
+            <div class="habilidades">
+                <p class="hab1 hab"><span class="habestilo1">99+</span><br>BUGS</p>
+                <p class="hab2 hab"><span class="habestilo2">MAX</span><br>OVERCLOCK</p>
+                <p class="hab2 hab"><span class="habestilo3">100%</span><br>LOGIC</p>
+            </div>
+        </section>
+
+
+        <section class="section-da-direita">
+            <!-- <img src="img/dinheiro.png" alt="Icone de uma moeda" class="moeda1">
+            <img src="img/cogumelo.png" alt="Icone de uma moeda" class="moeda2"> -->
+            <img src="img/devluigi2.png" alt="Luigi" class="img-luigi" />
+        </section>
+    </main>
+
+    <form class="formulario">
+        <input type="text" placeholder="Identificação do Dev (Seu Nome)">
+        <input type="text" placeholder="(Telefone/Discord)">
+        <textarea placeholder="Escopo do projeto ou bugs a serem corrigidos..."></textarea>
+        <button class="button-form">Enviar Pull Request</button>
+    </form>
+    <div class="mascara" onclick="desaparecerForm()"></div>
+    <footer>
+        <h1 class="h1-footer">LUIGI-CORP</h1>
+        <a href="#" class="links-footer dif">Diretrizes de Segurança & <span title="Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).">LGPD</span></a> 
+        <a href="#" class="links-footer">Recrutar Luigi</a>
+        <a href="#" class="links-footer">Protocolos de Criptografia</a>
+        
+        <p class="p-footer">&copy; 2026 Luigi Dev - Código aberto sob a Licença <span title="A Licença MIT é uma das licenças de software livre e de código aberto (open-source) mais famosas, criadas e utilizadas no mundo da programação. Ela foi desenvolvida no Instituto de Tecnologia de Massachusetts (daí a sigla MIT)." class="mit">MIT</span></p>
+
+
+
+    </footer>
+</body>
+<script src="scripts.js"></script>
+
+</html>
