@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/cogumelo.png" width="50px">Luigi-DEV</h1>
+<h1> <img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/cogumelo.png" width="40px"> Luigi-DEV</h1>
 
 ## 💚 LUIGI-CORP
 
