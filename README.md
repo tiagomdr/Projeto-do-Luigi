@@ -1,6 +1,6 @@
-<h1> <img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/cogumelo.png" width="40px"> Luigi-DEV</h1>
+<h1> <img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/cogumelo.png" width="40px"> LUIGI-CORP</h1>
 
-## 💚 LUIGI-CORP
+## 💚 Objetivo
 
 Desenvolvi este projeto com o objetivo de aprimorar meus conhecimentos em HTML, CSS e JavaScript. Foquei em entender o funcionamento de Flexbox e pratiquei manipulação do DOM com JS. A interface está responsiva para dispositivos móveis, com a implementação para tablets e resoluções maiores (acima de 1900px) planejada para as próximas atualizações.
 
