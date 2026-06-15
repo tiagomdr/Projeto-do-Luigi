@@ -10,7 +10,7 @@ function mostrarForm() {
 
 
 function desaparecerForm() {
-     formulario.style.left = '-342px'
+     formulario.style.left = '-340px'
      mascara.style.visibility = 'hidden'
 }
 
