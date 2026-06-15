@@ -1,4 +1,4 @@
-<h1> <img src="" width="50px">Luigi-DEV</h1>
+<h1> <img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/devLuigi.png" width="50px">Luigi-DEV</h1>
 
 ## LUIGI-CORP
 
