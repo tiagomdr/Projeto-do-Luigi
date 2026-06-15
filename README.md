@@ -20,6 +20,6 @@ Desenvolvi este projeto com o objetivo de aprimorar meus conhecimentos em HTML, 
 
   ## 📷 Prévia do Projeto
   - Delopy do Projeto https://tiagomdr.github.io/Projeto-do-Luigi/
-<img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/luigiResp.png" alt="Previa do projeto" width="500px">
+<img src="https://github.com/tiagomdr/Projeto-do-Luigi/blob/main/img/luigiResp.png" alt="Previa do projeto" width="500px" height="50px">
 
 ---
