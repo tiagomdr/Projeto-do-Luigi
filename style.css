@@ -297,6 +297,7 @@ form {
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.671);
     border: 2px solid #194d14;
     z-index: 2;
+    transition: 1s left ease-in;
 }
 
 input {
@@ -343,8 +344,8 @@ textarea {
     position: fixed;
     top: 0;
     background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.87) 50%, rgba(10, 12, 16, 0.99) 85%);
-    z-index: 0;
-    display: none;
+    visibility: hidden;
+    transition: 1s visibility ease;
 }
 
 .mit {
